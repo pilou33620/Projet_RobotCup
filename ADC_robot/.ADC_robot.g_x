@@ -1,0 +1,33 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/PE_Error.h" FileDate="2018-06-13, 11:46:56" FileAge="1528883216880" FileType="45637" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2018-06-13, 13:48:04" FileAge="1528890484283" FileType="45637" CompNumb="4" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2018-06-13, 11:46:56" FileAge="1528883216861" FileType="8" CompNumb="4" />
+      <File Name="Generated_Code/EInt1.h" FileDate="2018-06-13, 13:48:04" FileAge="1528890484269" FileType="45637" CompNumb="8" />
+      <File Name="Documentation/ADC_robot.txt" FileDate="2018-06-13, 13:48:04" FileAge="1528890484643" FileType="3072" />
+      <File Name="Sources/Events.h" FileDate="2018-06-13, 13:48:04" FileAge="1528890484296" FileType="131328" />
+      <File Name="Generated_Code/EInt1.c" FileDate="2018-06-13, 13:48:03" FileAge="1528890483983" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2018-06-13, 11:46:56" FileAge="1528883216883" FileType="45637" />
+      <File Name="Sources/main.c" FileDate="2018-06-13, 14:07:29" FileAge="1528891649782" FileType="128" />
+      <File Name="Sources/Events.c" FileDate="2018-06-13, 13:48:04" FileAge="1528890484303" FileType="131328" />
+      <File Name="Documentation/ADC_robot_SIGNALS.txt" FileDate="2018-06-13, 14:07:29" FileAge="1528891649799" FileType="3072" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2018-06-13, 11:46:56" FileAge="1528883216875" FileType="45637" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2018-06-13, 11:46:56" FileAge="1528883216878" FileType="45637" />
+      <File Name="Documentation/ADC_robot_Settings.xml" FileDate="2018-06-13, 14:07:29" FileAge="1528891649836" FileType="3072" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2018-06-13, 11:48:43" FileAge="1528883323692" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2018-06-13, 13:48:04" FileAge="1528890484289" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2018-06-13, 11:46:56" FileAge="1528883216871" FileType="45637" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>4</CodeGenReference>
+</CodeGenerationInfo>
